@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall",
+  "%Name":"you_win",
   "eventList":[],
   "managed":true,
-  "name":"obj_wall",
+  "name":"you_win",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"Spr_wall",
-    "path":"sprites/Spr_wall/Spr_wall.yy",
+    "name":"gettyimages_1447471637_640x640",
+    "path":"sprites/gettyimages_1447471637_640x640/gettyimages_1447471637_640x640.yy",
   },
   "spriteMaskId":null,
   "visible":true,
