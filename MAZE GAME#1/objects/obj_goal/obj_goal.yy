@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object3",
+  "%Name":"obj_goal",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_dino","path":"objects/obj_dino/obj_dino.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object3",
+  "name":"obj_goal",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite3",
-    "path":"sprites/Sprite3/Sprite3.yy",
+    "name":"spr_goal",
+    "path":"sprites/spr_goal/spr_goal.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"you_win",
-  "eventList":[],
+  "%Name":"obj_zombie",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"you_win",
+  "name":"obj_zombie",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_win",
-    "path":"sprites/spr_win/spr_win.yy",
+    "name":"spr_zombie",
+    "path":"sprites/spr_zombie/spr_zombie.yy",
   },
   "spriteMaskId":null,
   "visible":true,
